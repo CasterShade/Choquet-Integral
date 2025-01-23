@@ -1,4 +1,5 @@
-# Choquet-Integral SynthNonLinearClassifiedDataGen: Non-Linear Data Classification Using Genetic Algorithm
+# Choquet-Integral 
+# SynthNonLinearClassifiedDataGen: Non-Linear Data Classification Using Genetic Algorithm
 
 ## Overview
 This project implements a synthetic non-linear classified data generator and classifier using genetic algorithms. The implementation is based on a research paper and includes functionalities for generating synthetic data, classifying it using Choquet hyperplanes, and optimizing the classification process through a genetic algorithm.
