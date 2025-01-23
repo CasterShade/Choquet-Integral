@@ -2,7 +2,7 @@
 # SynthNonLinearClassifiedDataGen: Non-Linear Data Classification Using Genetic Algorithm
 
 ## Overview
-This project implements a synthetic non-linear classified data generator and classifier using genetic algorithms. The implementation is based on a research paper and includes functionalities for generating synthetic data, classifying it using Choquet hyperplanes, and optimizing the classification process through a genetic algorithm.
+This project implements a synthetic non-linear classified data generator and classifier using genetic algorithms. The implementation is based on a [research paper](https://github.com/CasterShade/Choquet-Integral/blob/main/Nonlinear_Classification_by_Genetic_Algorithm_with_Signed_Fuzzy_Measure%20(6).pdf) and includes functionalities for generating synthetic data, classifying it using Choquet hyperplanes, and optimizing the classification process through a genetic algorithm.
 
 The solution supports **N-dimensional data classification** and visualizes results for 2D cases. The attached Python file contains the full implementation.
 
