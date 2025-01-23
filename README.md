@@ -10,14 +10,14 @@ The solution supports **N-dimensional data classification** and visualizes resul
 
 ### Target Classification
 The following graph shows the target classification of synthetic data:
-![Target Classification](image.png)
+![Target Classification](https://github.com/CasterShade/Choquet-Integral/blob/main/image%20(1).png)
 
 ### Genetic Algorithm Optimization
 Using the genetic algorithm approach described in the paper, the generated result is shown below:
-![Genetic Algorithm Result](image.png)
+![Genetic Algorithm Result](https://github.com/CasterShade/Choquet-Integral/blob/main/image%20(2).png)
 
 The printed number on top of each graph is the **chromosome** used to create the **Choquet hyperplane** for classification:
-![Chromosome-Based Classification](image.png)
+![Chromosome-Based Classification](https://github.com/CasterShade/Choquet-Integral/blob/main/image%20(2).png)
 
 ### Convergence Details
 - **Number of generations:** 45
